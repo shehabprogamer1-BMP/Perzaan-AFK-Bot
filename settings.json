@@ -3,7 +3,7 @@
   "bot-account": {
     "username": "noob",
     "password": "mebot",
-    "type": "offline"
+    "type": "online"
   },
   "server": {
     "ip": "Proserver01.aternos.me",
