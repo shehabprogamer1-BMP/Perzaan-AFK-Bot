@@ -8,7 +8,7 @@
   "server": {
     "ip": "Proserver01.aternos.me",
     "port": 25185,
-    "version": "1.21.1"
+    "version": "26.2"
   },
   "position": {
     "enabled": true,
