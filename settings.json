@@ -2,12 +2,12 @@
   "name": "AFK Bot",
   "bot-account": {
     "username": "BOT",
-    "password": "NOOB1",
-    "type": "offline"
+    "password": "",
+    "type": "online"
   },
   "server": {
-    "ip": "MyauraSMP.aternos.me",
-    "port": 30129,
+    "ip": "MyKingSMP.aternos.me",
+    "port": 42466,
     "version": "1.21.1"
   },
   "position": {
